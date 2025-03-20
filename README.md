@@ -11,7 +11,7 @@ A sleek, modern calculator with a visually stunning **dynamic gradient backgroun
 ✅ **Clear & Delete Functionality** – Easily edit or reset your input  
 
 ##  Screenshot  
-![Calculator Preview](image.png)  
+![Calculator Preview](Screenshot%202025-03-20%20195343.png))  
 
 ## 🛠️ How to Use  
 1. **Clone the repository**  

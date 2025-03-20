@@ -16,4 +16,4 @@ A sleek, modern calculator with a visually stunning **dynamic gradient backgroun
 ## 🛠️ How to Use  
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/yourusername/Stylish-Calculator.git
+   git clone https://github.com/PromiseChikwendu/Stylish-Calculator.git
